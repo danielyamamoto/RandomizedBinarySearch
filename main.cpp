@@ -1,8 +1,8 @@
 /* 
-	Determinar si un número entero se encuentra en un conjunto de números enteros, 
-	a través del método Las Vegas Randomized Algorithm
-	
-	Autor: Daniel Yamamoto
+Determinar si un número entero se encuentra en un conjunto de números enteros, 
+a través del método Las Vegas Randomized Algorithm
+
+Autor: Daniel Yamamoto
 */
 
 #include <iostream>
